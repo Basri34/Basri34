@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I'm Omar!</h1>
+<h1 align="center">Hi there 👋</h1>
 - 🌱 I’m currently learning **NextJS, TypeScript and Redux**
 
 - 📫 How to reach me **omaralbasri03@gmail.com**
