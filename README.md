@@ -6,4 +6,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basri34&show_icons=true&locale=en" alt="basri34" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basri34&show_icons=true&theme=dark&locale=en" alt="basri34" /></p>
